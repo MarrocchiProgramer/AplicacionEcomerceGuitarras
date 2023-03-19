@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+  
+  /* valores para BODY */
+  body{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    background-attachment: fixed;
+    background-image: url(../images/maderadeebano.jpg);
+  }
+  
+  /* empieza el HEADER */
+  #header {
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    background-color: rgba(255, 255, 255, 0.3); 
+    padding: 20px;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  
+  .header-title {
+    /* display: inline-block; */
+    font-family: "Cinzel Decorative", cursive;
+    font-size: 25px;
+    color: #111;
+    border-radius: 15px;
+    margin-left: 30px;
+    text-shadow: 2px 2px #5b4937;
+    border: 5px double black;
+    padding: 10px;
+    
+  }
+  
+  .header-title-link{
+    text-decoration: none;
+  }
+  /* termina el HEADER */
+  
+  
+    
+  
+  
+  /* comienza el formulario */
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 13px rgb(255, 255, 255);
+    background-image: url(../images/maderamarronoscuro.jpg);
+    margin-bottom: 30px;
+  
+  }
+  
+  .form-title{
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: "Cinzel Decorative", cursive;
+    color: white;
+    margin-bottom: 50px;
+  }
+    
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family: "Cinzel Decorative", cursive;
+    color: white;
+  }
+  
+  .input-name,
+  .input-email,
+  .input-password {
+    border: none;
+    border-bottom: 3px solid rgba(255, 255, 255, 0.432);
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+  }
+  
+  .input-name:focus,
+  .input-email:focus,
+  .input-password:focus {
+    border-bottom: 2px solid rgb(0, 0, 0);
+    outline: none;
+  }
+  
+  .group-name, .group-email, .group-password{
+    margin-bottom: 10px;
+  }
+  
+  
+  .input-submit {
+    font-family: "Cinzel Decorative", cursive;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #2c2c2c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    margin-top: 20px;
+  }
+  /* termina el formulario */
+  
+    

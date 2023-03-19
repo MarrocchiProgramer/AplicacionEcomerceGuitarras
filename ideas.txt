@@ -1,0 +1,25 @@
+Hacer un navbar que diga guitarras criollas, acusticas, electroacusticas, electricas
+
+
+
+FOTOS SACADAS DE WALLPAPERWIDE
+
+criollas : 
+1.Guitarra Criolla Takamine
+2.Guitarra criolla Midiplus
+3.Guitarra criolla La Alpujarra
+
+acusticas: 
+1.Guitarra Acustica Parquer
+2.Guitarra Acustica Cort
+3.Guitarra Acustica Ivanez
+
+electroacusticas:
+1.Guitarra Electroacustica Cort
+2.Guitarra Electroacustica Mahogamy
+3.Guitarra Electroacustica Sigma
+
+electrica:
+1.Guitarra Electrica Epiphone
+2.GUitarra Electrica Ibanez
+3.Guitarra Electrica Tagima
