@@ -1,0 +1,64 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Criolla LaAlpujarra",
+            "precio": 70000
+        },
+        {
+            "id": 2,
+            "nombre": "Criolla Midiplus",
+            "precio": 180000
+        },
+        {
+            "id": 3,
+            "nombre": "Criolla Takamine",
+            "precio":  40000
+        },
+        {
+            "id": 4,
+            "nombre": "Acustica Cort",
+            "precio": 125000
+        },
+        {
+            "id": 5,
+            "nombre": "Acustica Ivanez",
+            "precio": 170000
+        },
+        {
+            "id": 6,
+            "nombre": "Acustica Parquer",
+            "precio": 85000
+        },
+        {
+            "id": 7,
+            "nombre": "Electroacustica Cort",
+            "precio": 90000
+        },
+        {
+            "id": 8,
+            "nombre": "Electroacustica Mahogany",
+            "precio": 75000
+        },
+        {
+            "id": 9,
+            "nombre": "Electroacustica Sigma",
+            "precio": 145000
+        },
+        {
+            "id": 10,
+            "nombre": "Electrica Epiphone",
+            "precio": 250000
+        },
+        {
+            "id": 11,
+            "nombre": "Electrica Ibanez",
+            "precio": 375000
+        },
+        {
+            "id": 12,
+            "nombre": "Electrica Tagima",
+            "precio": 100000
+        }
+    ]
+}
